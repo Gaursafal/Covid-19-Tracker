@@ -3,4 +3,5 @@ A simple website to display current covid-19 cases in the world which include to
 
 
 <img src= "Images/Screenshot%20(196).png">
-[Live DEMO](https://gaursafal.github.io/Masai-Sprint-3/) Shows Covid-19 Data
+[Live DEMO]
+("https://gaursafal.github.io/Masai-Sprint-3/")
